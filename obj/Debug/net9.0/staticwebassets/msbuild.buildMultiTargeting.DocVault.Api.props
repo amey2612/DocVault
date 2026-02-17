@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\DocVault.Api.props" />
-</Project>
