@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocVault.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80ab6884c89accfad882a8f567bc9303e232382b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c308410c0ecfe2e3f8336dad334d2a30fdbeba7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocVault.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocVault.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
